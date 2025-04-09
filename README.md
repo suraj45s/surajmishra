@@ -1,2 +1,3 @@
 # surajmishra
-This is my first git Repositoryt
+This is my first git Repository
+Author-suraj
